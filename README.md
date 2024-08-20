@@ -81,7 +81,7 @@ react & react native
 <h4>✔️배포</h4>
 <img src="https://img.shields.io/badge/amazoneks-232F3E?style=for-the-badge&logo=amazoneks&logoColor=white">
 <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-<h4>✔️배포</h4>
+<h4>✔️이미지 저장소</h4>
 Google Cloud Stoarge
 <h4>✔️웹서버</h4>
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
