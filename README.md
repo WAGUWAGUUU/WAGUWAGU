@@ -15,7 +15,7 @@
       <td>가게<br>매출<br>파일 업로드</td>
       <td>OAuth<br>실시간 알림<br>배포</td>
       <td>주문<br>검색<br></td>
-      <td>장바구니<br>리뷰</td>
+      <td>장바구니<br>리뷰<br>앱푸시</td>
       <td>라이더<br>결제<br>CI/CD</td>
     </tr>
   </tbody>
