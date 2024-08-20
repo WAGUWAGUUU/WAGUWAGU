@@ -45,8 +45,8 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://github.com/user-attachments/assets/3299eb0e-6ddb-4791-910d-41f6782f072e" width="150px;" alt="https://github.com/m48483"/><br /><sub><b>메인화면</b></sub></a><br /></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/1d077f40-f03e-4149-a3fa-9560ddc6fb08" width="150px;" alt=""/><br /><sub><b>가게 목록</b></sub></a><br /></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/3299eb0e-6ddb-4791-910d-41f6782f072e" width="150px;" alt=""/><br /><sub><b>메인화면</b></sub></a><br /></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/978d1edd-5667-46d6-ab86-69a7dddbf9e3" width="150px;" alt=""/><br /><sub><b>가게 목록</b></sub></a><br /></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/5f147a11-808d-4005-9bdc-09588c4ddf0f" width="150px;" alt=""/><br /><sub><b>장바구니</b></sub></a><br /></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/ba6cd978-4687-406c-abc9-65c09fd29627" width="150px;" alt=""/><br /><sub><b>주문하기</b></sub></a><br /></td>
       </tr>
@@ -78,15 +78,17 @@ react & react native
 <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
 <h4>✔️검색</h4>
 <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=black">
-<h4>✔️클라우드</h4>
+<h4>✔️배포</h4>
 <img src="https://img.shields.io/badge/amazoneks-232F3E?style=for-the-badge&logo=amazoneks&logoColor=white">
 <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<h4>✔️배포</h4>
 Google Cloud Stoarge
 <h4>✔️웹서버</h4>
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 <h4>✔️컨테이너 및 오케스트레이션</h4>
-<img src="https://img.shields.io/badge/docker-#496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/docker-496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
 <h4>✔️CI/CD</h4>
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 <h4>✔️외부 API</h4>
