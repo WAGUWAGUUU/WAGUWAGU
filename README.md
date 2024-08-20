@@ -45,10 +45,10 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://github.com/user-attachments/assets/3299eb0e-6ddb-4791-910d-41f6782f072e" width="100px;" alt="https://github.com/m48483"/><br /><sub><b>메인화면</b></sub></a><br /></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/1d077f40-f03e-4149-a3fa-9560ddc6fb08" width="100px;" alt=""/><br /><sub><b>가게 목록</b></sub></a><br /></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/5f147a11-808d-4005-9bdc-09588c4ddf0f" width="100px;" alt=""/><br /><sub><b>장바구니</b></sub></a><br /></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/ba6cd978-4687-406c-abc9-65c09fd29627" width="100px;" alt=""/><br /><sub><b>주문하기</b></sub></a><br /></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/3299eb0e-6ddb-4791-910d-41f6782f072e" width="150px;" alt="https://github.com/m48483"/><br /><sub><b>메인화면</b></sub></a><br /></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/1d077f40-f03e-4149-a3fa-9560ddc6fb08" width="150px;" alt=""/><br /><sub><b>가게 목록</b></sub></a><br /></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/5f147a11-808d-4005-9bdc-09588c4ddf0f" width="150px;" alt=""/><br /><sub><b>장바구니</b></sub></a><br /></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/ba6cd978-4687-406c-abc9-65c09fd29627" width="150px;" alt=""/><br /><sub><b>주문하기</b></sub></a><br /></td>
       </tr>
   </tbody>
 </table>
