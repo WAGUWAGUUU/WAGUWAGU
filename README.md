@@ -136,8 +136,8 @@
 <h4>✔️ 외부 API</h4>
 <div class="tech-stack">
   <img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=white">
-  <span>카카오 로그인, 카카오 맵, 카카오 내비, 딸깍페이</span>
 </div>
+<span>카카오 로그인, 카카오 맵, 카카오 내비, 딸깍페이</span>
 
 <h3>📌시스템 구조도(수정 팔요)</h3>
 
