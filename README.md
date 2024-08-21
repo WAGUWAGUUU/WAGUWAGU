@@ -61,83 +61,53 @@
 <h4>🛵라이더</h4>
 라이더 앱은 실시간으로 새로운 배달 요청을 받아볼 수 있으며, 자신의 배달 내역을 손쉽게 확인할 수 있습니다. 또한, 수익 관리 기능을 통해 일별 수익을 간편하게 조회할 수 있어 라이더가 효율적으로 업무를 관리하고 처리할 수 있도록 돕습니다.
 
-<style>
-  .tech-stack {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin-bottom: 20px;
-  }
-</style>
+### 🖥️ 사용 기술 스택
 
-<h3>🖥️ 사용 기술 스택</h3>
+#### ✔️ 백엔드  
+![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![fastapi](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-<h4>✔️ 백엔드</h4>
-<div class="tech-stack">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-</div>
+#### ✔️ 프론트엔드  
+![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![expo](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
+react & react native
 
-<h4>✔️ 프론트엔드</h4>
-<div class="tech-stack">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white">
-</div>
-<span>react & react native</span>
+#### ✔️ 데이터베이스/캐싱  
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![mongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![redis](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 
-<h4>✔️ 데이터베이스/캐싱</h4>
-<div class="tech-stack">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
-</div>
+#### ✔️ 검색  
+![elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=black)
 
-<h4>✔️ 검색</h4>
-<div class="tech-stack">
-  <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=black">
-</div>
+#### ✔️ 배포  
+![amazoneks](https://img.shields.io/badge/amazoneks-232F3E?style=for-the-badge&logo=amazoneks&logoColor=white)
+![googlecloud](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-<h4>✔️ 배포</h4>
-<div class="tech-stack">
-  <img src="https://img.shields.io/badge/amazoneks-232F3E?style=for-the-badge&logo=amazoneks&logoColor=white">
-  <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-</div>
+#### ✔️ 클라우드 서비스  
+![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
+Google Cloud Storage
 
-<h4>✔️ 클라우드 서비스</h4>
-<div class="tech-stack">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-</div>
-<span>Google Cloud Storage</span>
+#### ✔️ 메시지 큐  
+![apachekafka](https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-<h4>✔️ 메시지 큐</h4>
-<div class="tech-stack">
-  <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-</div>
+#### ✔️ 웹서버  
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-<h4>✔️ 웹서버</h4>
-<div class="tech-stack">
-  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-</div>
+#### ✔️ 컨테이너 및 오케스트레이션  
+![docker](https://img.shields.io/badge/docker-496ED?style=for-the-badge&logo=docker&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![helm](https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-<h4>✔️ 컨테이너 및 오케스트레이션</h4>
-<div class="tech-stack">
-  <img src="https://img.shields.io/badge/docker-496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
-</div>
+#### ✔️ CI/CD  
+![jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-<h4>✔️ CI/CD</h4>
-<div class="tech-stack">
-  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-</div>
+#### ✔️ 외부 API  
+![kakao](https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=white)  
+카카오 로그인, 카카오 맵, 카카오 내비, 딸깍페이
 
-<h4>✔️ 외부 API</h4>
-<div class="tech-stack">
-  <img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=white">
-</div>
-<span>카카오 로그인, 카카오 맵, 카카오 내비, 딸깍페이</span>
 
 <h3>📌시스템 구조도(수정 팔요)</h3>
 
