@@ -82,9 +82,9 @@
 <h4>✔️ 프론트엔드</h4>
 <div class="tech-stack">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <span>react & react native</span>
   <img src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white">
 </div>
+<span>react & react native</span>
 
 <h4>✔️ 데이터베이스/캐싱</h4>
 <div class="tech-stack">
@@ -108,8 +108,8 @@
 <h4>✔️ 클라우드 서비스</h4>
 <div class="tech-stack">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <span>Google Cloud Storage</span>
 </div>
+<span>Google Cloud Storage</span>
 
 <h4>✔️ 메시지 큐</h4>
 <div class="tech-stack">
