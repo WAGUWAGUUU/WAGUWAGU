@@ -109,9 +109,9 @@ Google Cloud Storage
 카카오 로그인, 카카오 맵, 카카오 내비, 딸깍페이
 
 
-<h3>📌시스템 구조도(수정 팔요)</h3>
+<h3>📌시스템 구조도</h3>
 
-![waguwagu drawio (1)](https://github.com/user-attachments/assets/4cb2e051-ccd1-4d01-996b-f20e126d6842)
+![waguwagu-시스템구조도 drawio](https://github.com/user-attachments/assets/1bba8ce1-faf5-4e53-ace7-bea5d99fbb11)
 
 
 <h3>📌데이터 플로우</h3>
