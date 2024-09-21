@@ -64,6 +64,28 @@
 ### 🎮 서비스 링크 (현재 서비스 이용불가)
 https://waguwagu.shop/
 
+### 🔗 각 서버 및 프론트 레포지토리 링크
+#### ✔️ 서버
+1. 유저 : https://github.com/WAGUWAGUUU/WAGUWAGU-auth
+2. 가게 : https://github.com/WAGUWAGUUU/WAGUWAGU-store
+3. 주문 : https://github.com/WAGUWAGUUU/WAGUWAGU-order
+4. 장바구니 : https://github.com/WAGUWAGUUU/WAGUWAGU-cart
+5. 라이더 : https://github.com/WAGUWAGUUU/WAGUWAGU-RIDER-BE
+6. 검색 : https://github.com/WAGUWAGUUU/WAGUWAGU-elastic
+7. 결제, 정산 : https://github.com/WAGUWAGUUU/WAGUWAGU-PAYMENT-BE
+8. 알람 : https://github.com/WAGUWAGUUU/WAGUWAGU-alarm
+9. 앱 푸시 : https://github.com/WAGUWAGUUU/WAGUWAGU-FCM-PUSH-NOTIFICATION-SERVER
+10. 파일 업로드 : https://github.com/WAGUWAGUUU/waguwagu-upload-server
+11. 매출 : https://github.com/WAGUWAGUUU/waguwagu-sales-server
+12. 리뷰 : https://github.com/WAGUWAGUUU/WAGUWAGU-review
+
+#### ✔️ 프론트 웹, 앱
+1. 고객 : https://github.com/WAGUWAGUUU/WAGUWAGU-front-customer
+2. 가게 : https://github.com/WAGUWAGUUU/WAGUWAGU-STORE-FE
+3. 라이더 : https://github.com/WAGUWAGUUU/WAGUWAGU-RIDER-FE
+
+
+
 ### 🖥️ 사용 기술 스택
 
 #### ✔️ 백엔드  
