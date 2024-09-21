@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/68459ccb-631e-45a9-8680-132d248cfa31
 
 https://github.com/user-attachments/assets/28ee3ba9-a452-4219-afd1-1b09f6ba4344
 
-### 🎮 서비스 링크 (현재 서비스 이용불가)
+### <br>🎮 서비스 링크 (현재 서비스 이용불가)
 https://waguwagu.shop/
 
 ### 🔗 각 서버 및 프론트 레포지토리 링크
