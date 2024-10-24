@@ -145,11 +145,6 @@ Kakao (Kakao Login, Kakao Map, Kakao Navigation, Click Pay)
 ![waguwagu-시스템구조도 drawio](https://github.com/user-attachments/assets/1bba8ce1-faf5-4e53-ace7-bea5d99fbb11)
 
 
-<h3>📌Data Flow</h3>
-
-![customer drawio(1)](https://github.com/user-attachments/assets/2875035d-16a9-40b4-a5c9-63351e0e009f)
-
-
 <h3>📌ERD</h3>
 
 ![Copy of 주문 (2)](https://github.com/user-attachments/assets/13aec4e9-2bd7-4ff1-93c9-e926730d86f8)
